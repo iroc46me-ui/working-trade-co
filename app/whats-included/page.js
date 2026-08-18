@@ -1,0 +1,2 @@
+export default function Page(){return <main className="wrap page"><h1>What's Included</h1><div className="grid3">
+{["Customer Intake & Photo Quote","Job Profit Calculator","Load Pricing Builder","Estimate / Quote","Job Sheet","Invoice","Disposal / Dump Log","Mileage & Expense Log","Daily Job & Profit Log","Before / After Record","Customer Message Scripts","AI Office Task Recipes"].map(x=><div className="card" key={x}><h3>{x}</h3><p>Designed to be straightforward, editable and useful in day-to-day operation.</p></div>)}</div></main>}

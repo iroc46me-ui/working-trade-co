@@ -1,0 +1,1 @@
+export default function Page(){return <main className="wrap page"><h1>Free Tools</h1><p>We're building useful no-nonsense tools for working operators. The first free sample will be a simple Job Profit Check worksheet.</p><div className="notice">Coming with the public launch. No fake download button—we'll make this live when the file is attached.</div></main>}
