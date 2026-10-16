@@ -55,5 +55,89 @@
     "featured": false,
     "source": "gumroad",
     "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "ftbt-mobile-miter-saw-stand",
+    "title": "Mobile Miter Saw Stand Plans",
+    "seller": "Fix This Build That",
+    "category": "Woodworking & DIY",
+    "audience": "Woodworkers|Home workshops|DIY builders",
+    "description": "Nine-page printable woodworking plans for a movable miter saw station with folding side supports, illustrated cut diagrams, parts lists and assembly steps. Measurements use inches.",
+    "price": 10,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "miter saw",
+      "workshop",
+      "mobile tool station",
+      "woodworking"
+    ],
+    "purchaseUrl": "https://fixthisbuildthat.gumroad.com/l/mitersawstand?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "ftbt-diy-tall-dresser",
+    "title": "DIY Tall Dresser Plans",
+    "seller": "Fix This Build That",
+    "category": "Woodworking & DIY",
+    "audience": "DIY builders|Furniture makers|Homeowners",
+    "description": "Thirteen-page downloadable build plans for a six-drawer tall dresser. Includes dimensioned diagrams, materials and cutting guidance, and step-by-step illustrations in imperial units.",
+    "price": 10,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "dresser",
+      "furniture",
+      "bedroom",
+      "woodworking"
+    ],
+    "purchaseUrl": "https://fixthisbuildthat.gumroad.com/l/diydresser?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "ftbt-mobile-wood-cart",
+    "title": "Mobile Wood Storage Cart Plans",
+    "seller": "Fix This Build That",
+    "category": "Woodworking & DIY",
+    "audience": "Woodworkers|Home workshops|DIY builders",
+    "description": "Twelve-page printable woodworking plans for a mobile cart that organizes boards, sheet goods and offcuts. Includes cutting diagrams, parts lists and assembly illustrations in imperial units.",
+    "price": 10,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "wood storage",
+      "lumber cart",
+      "workshop organization",
+      "woodworking"
+    ],
+    "purchaseUrl": "https://fixthisbuildthat.gumroad.com/l/mobilewoodcart?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
   }
 ]
