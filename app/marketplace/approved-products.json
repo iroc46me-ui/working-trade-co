@@ -139,5 +139,224 @@
     "featured": false,
     "source": "gumroad",
     "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-symbols-guide",
+    "title": "Welding Symbols Guide",
+    "seller": "Welding Answers",
+    "category": "Welding & Fabrication",
+    "audience": "Welders, fabricators, drafting students",
+    "description": "Twenty-seven-page PDF reference for understanding welding symbols.",
+    "price": 11,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "digital-download",
+      "plans",
+      "working-trades"
+    ],
+    "purchaseUrl": "https://weldinganswers.gumroad.com/l/symbolsguide?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-48-prequalified-smaw",
+    "title": "Prequalified SMAW Welding Procedures (48 WPS)",
+    "seller": "Welding Answers",
+    "category": "Welding & Fabrication",
+    "audience": "Qualified welding engineers and fabrication firms",
+    "description": "PDF collection of prequalified SMAW welding procedure specifications.",
+    "price": 297,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "digital-download",
+      "plans",
+      "working-trades"
+    ],
+    "purchaseUrl": "https://weldinganswers.gumroad.com/l/prewps?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-322-prequalified",
+    "title": "Prequalified Structural Welding Procedures Collection",
+    "seller": "Welding Answers",
+    "category": "Welding & Fabrication",
+    "audience": "Professional fabrication and welding engineering teams",
+    "description": "Professional structural welding WPS PDF collection plus documentation.",
+    "price": 697,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "digital-download",
+      "plans",
+      "working-trades"
+    ],
+    "purchaseUrl": "https://weldinganswers.gumroad.com/l/pwps-bonus?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "qc-steel-inspection",
+    "title": "Structural Steel Inspection Checklist V1.0",
+    "seller": "QC Workflow",
+    "category": "Welding & Fabrication",
+    "audience": "Tradespeople, makers and working-trade customers",
+    "description": "Printable checklist for structural steel inspection and turnover",
+    "price": 10,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "digital-download",
+      "working-trades"
+    ],
+    "purchaseUrl": "https://qcworkflow.gumroad.com/l/evvpo?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-mobile-skid-blueprint",
+    "title": "Welding Skid Downloadable Blueprint",
+    "seller": "Your Welding Coach / Joe L. Brown Jr.",
+    "category": "Welding & Fabrication",
+    "audience": "Mobile welders|Fabricators|Workshop builders",
+    "description": "Six-page PDF fabrication plan for a mobile welding skid with a materials and cut list, 2D/3D illustrations, cylinder mounting and assembly guidance.",
+    "price": 100,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "welding skid",
+      "fabrication plans",
+      "mobile welding",
+      "cut lists"
+    ],
+    "purchaseUrl": "https://weldingcoach.gumroad.com/l/vyrcfk?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-side-hustle-blueprint",
+    "title": "Weld & Wealth: Side Hustle Blueprint for Welding Entrepreneurs",
+    "seller": "Your Welding Coach / Joe L. Brown Jr.",
+    "category": "Welding & Fabrication",
+    "audience": "Welders|Mobile welding startups|Trade entrepreneurs",
+    "description": "Seven-chapter PDF business guide covering welding side hustles, branding, digital products and marketing, with downloadable business templates.",
+    "price": 47,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "welding business",
+      "side hustle",
+      "mobile welding",
+      "entrepreneurship"
+    ],
+    "purchaseUrl": "https://weldingcoach.gumroad.com/l/czrvx?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-rich-welder",
+    "title": "The Rich Welder: Mastering Skills and Money in the Trades",
+    "seller": "Your Welding Coach / Joe L. Brown Jr.",
+    "category": "Welding & Fabrication",
+    "audience": "Welders|Trade entrepreneurs|Welding students",
+    "description": "Eight-chapter PDF about career growth, business ownership and income opportunities for welders; includes a 90-day action-plan checklist.",
+    "price": 47,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "welder career",
+      "welding business",
+      "business planning",
+      "trades"
+    ],
+    "purchaseUrl": "https://weldingcoach.gumroad.com/l/rtjhga?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "weld-oil-gas-english-vocabulary",
+    "title": "Welding Vocabulary: Oil and Gas Professional Series Level B",
+    "seller": "ESL Professional Series - Oil and Gas Series",
+    "category": "Welding & Fabrication",
+    "audience": "Welders|Fabricators|QC technicians|English language learners",
+    "description": "Digital worksheet bundle for technical English vocabulary in welding processes, weld inspection, safety and codes; 60 terms with exercises and answer keys.",
+    "price": 12.99,
+    "currency": "USD",
+    "formats": [
+      "Digital worksheets"
+    ],
+    "tags": [
+      "welding vocabulary",
+      "quality control",
+      "oil and gas",
+      "ESL"
+    ],
+    "purchaseUrl": "https://workplacewords.gumroad.com/l/zhuln?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
   }
 ]
