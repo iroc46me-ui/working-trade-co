@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ftbt-flip-top-tool-stand",
+    "title": "Flip Top Tool Stand Plans",
+    "seller": "Fix This Build That",
+    "category": "Woodworking & DIY",
+    "audience": "Woodworkers|Home workshops|DIY builders",
+    "description": "Eight-page printable plans for a compact stand supporting two benchtop tools. Includes cut diagrams, parts lists and 3D assembly guidance. Dimensions are in inches.",
+    "price": 10,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "workshop",
+      "tool stand",
+      "space saving",
+      "woodworking"
+    ],
+    "purchaseUrl": "https://fixthisbuildthat.gumroad.com/l/fliptop?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-16"
+  }
+]
