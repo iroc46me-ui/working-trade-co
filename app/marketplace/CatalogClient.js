@@ -39,6 +39,8 @@ export default function CatalogClient() {
     });
   }, [search, category, sort]);
 
+  const visibleResults = !search.trim() && category === "All trades" ? results.slice(0, 6) : results;
+
   const clearFilters = () => {
     setSearch(""); setCategory("All trades"); setSort("featured");
   };
@@ -74,11 +76,11 @@ export default function CatalogClient() {
           </label>
         </div>
         <div className="catalog-count" role="status" aria-live="polite">
-          Showing {results.length} of {catalog.length} available {catalog.length === 1 ? "resource" : "resources"}
+          Showing {visibleResults.length} of {catalog.length} available {catalog.length === 1 ? "resource" : "resources"}
         </div>
         {results.length > 0 ? (
           <div className="catalog-grid">
-            {results.map((product) => (
+            {visibleResults.map((product) => (
               <article className="card catalog-product" key={product.id}>
                 <div className="catalog-product-top">
                   <span className="eyebrow">{product.category}</span>
