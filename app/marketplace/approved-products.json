@@ -970,5 +970,117 @@
     "featured": false,
     "source": "gumroad",
     "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "dixon-roofing-takeoff",
+    "title": "Roofing Estimate & Material Takeoff Spreadsheet",
+    "seller": "Dixon App Studio",
+    "category": "Construction & Contracting",
+    "audience": "Roofing contractors and estimators",
+    "description": "Excel and Google Sheets roofing takeoff workbook with material quantities, quote calculations and a PDF instruction guide.",
+    "price": 15,
+    "currency": "USD",
+    "formats": [
+      "XLSX",
+      "PDF"
+    ],
+    "tags": [
+      "roofing",
+      "estimating",
+      "material takeoff"
+    ],
+    "purchaseUrl": "https://stefanodix.gumroad.com/l/roofing-estimate-takeoff?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "faiz-hvac-service-invoice",
+    "title": "HVAC Service & Repair Invoice",
+    "seller": "AI Assistant",
+    "category": "Construction & Contracting",
+    "audience": "HVAC technicians and service businesses",
+    "description": "HVAC-specific invoice with equipment details, service findings, labor, parts and payment sections. Includes fillable and printable PDFs, Word and HTML versions.",
+    "price": 10.99,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "DOCX",
+      "HTML"
+    ],
+    "tags": [
+      "hvac",
+      "invoice",
+      "service repair"
+    ],
+    "purchaseUrl": "https://faizalvi.gumroad.com/l/HVACServiceinvoice?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "everyday-commercial-cleaning-checklist",
+    "title": "Commercial Cleaning Checklist",
+    "seller": "Everyday Business Forms",
+    "category": "Cleaning & Maintenance",
+    "audience": "Commercial cleaning and janitorial operators",
+    "description": "Editable commercial cleaning checklist for recurring office and facility cleaning tasks.",
+    "price": 9,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "DOCX"
+    ],
+    "tags": [
+      "commercial cleaning",
+      "janitorial",
+      "checklist"
+    ],
+    "purchaseUrl": "https://everydaybizforms.gumroad.com/l/kahpcl?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "noyan-rv-rental-templates",
+    "title": "RV Rental Business Templates Bundle",
+    "seller": "noyanlimited",
+    "category": "Trucking & Transport",
+    "audience": "RV rental owners and operators",
+    "description": "Rental business forms covering agreements, vehicle inspections, bookings, maintenance and damage records. Review agreements for local legal requirements.",
+    "price": 9.99,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "rv rental",
+      "inspection",
+      "maintenance"
+    ],
+    "purchaseUrl": "https://noyanlimited.gumroad.com/l/oqqbbg?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
   }
 ]
