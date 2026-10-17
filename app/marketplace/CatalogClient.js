@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { catalog, plannedCategories } from "./catalog";
+import { catalog } from "./catalog";
 
 const money = (amount, currency) => {
   if (amount === null || amount === undefined) return "See seller's price";
@@ -119,13 +119,24 @@ export default function CatalogClient() {
         )}
       </section>
       <section className="catalog-section" aria-labelledby="future-heading">
-        <div className="eyebrow">EXPANDING THE LIBRARY</div>
-        <h2 id="future-heading">Trades we're preparing for</h2>
+        <div className="eyebrow">BROWSE BY TRADE</div>
+        <h2 id="future-heading">Explore Our Categories</h2>
         <p className="catalog-subtitle">
-          These are areas we're expanding into, not invented listings. Only reviewed, authorized products appear above.
+          Choose a category to browse its available products.
         </p>
         <div className="catalog-category-list">
-          {plannedCategories.map((name) => <span className="catalog-category" key={name}>{name} <small>Expanding</small></span>)}
+          {categories.filter((name) => name !== "All trades").map((name) => (
+            <a
+              key={name}
+              className="catalog-category"
+              href="#browse-heading"
+              style={{ textDecoration: "none" }}
+              onClick={() => { setCategory(name); setSearch(""); }}
+            >
+              {name}
+              <small>{catalog.filter((item) => item.category === name).length} products</small>
+            </a>
+          ))}
         </div>
       </section>
     </>
