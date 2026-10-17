@@ -1082,5 +1082,202 @@
     "featured": false,
     "source": "gumroad",
     "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "makeandtinker-vacuumformer",
+    "title": "The Ultimate DIY Vacuum Former Plans",
+    "seller": "Make & Tinker",
+    "category": "Woodworking & DIY",
+    "audience": "",
+    "description": "46-page illustrated vacuum former construction guide with 80+ technical illustrations, material list, wiring diagrams, Arduino code, 3D-print files and cutting templates. Supports 110V or 220V configurations.",
+    "price": 29.99,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "STL",
+      "Code"
+    ],
+    "tags": [
+      "vacuum forming",
+      "workshop machinery",
+      "fabrication"
+    ],
+    "purchaseUrl": "https://makeandtinker.gumroad.com/l/VacuumFormer?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "samhouseplans-23x23feettinyhouse",
+    "title": "23x23 Feet Tiny House Full Plans",
+    "seller": "Sam House Plans",
+    "category": "Construction & Contracting",
+    "audience": "",
+    "description": "Full paid tier for a two-bedroom 23 x 23 ft tiny house: footing, beam, wall, roof and elevation drawings, sections, electrical locations, plus AutoCAD and SketchUp files. Verify local building-code suitability.",
+    "price": 29,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "DWG",
+      "SketchUp"
+    ],
+    "tags": [
+      "tiny house",
+      "building plans",
+      "construction"
+    ],
+    "purchaseUrl": "https://samhouseplans.gumroad.com/l/23x23FeetTinyHouse?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "bubliknata-metallionhead",
+    "title": "Sheet-Metal Lion Head Fabrication Plans",
+    "seller": "Polygonal Paper",
+    "category": "Welding & Fabrication",
+    "audience": "",
+    "description": "Laser-cut DXF files and PDF bend-angle and welding instructions for a 60 x 45 x 44 cm low-poly lion head using 1.5 mm sheet metal. Seller restricts commercial use of its intellectual property.",
+    "price": 56,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "DXF"
+    ],
+    "tags": [
+      "sheet metal",
+      "laser cutting",
+      "welding"
+    ],
+    "purchaseUrl": "https://bubliknata.gumroad.com/l/MetalLionHead?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "denerogmetal-rhino_standing",
+    "title": "Standing Rhino Metal Sculpture Plans",
+    "seller": "Denerog Metal",
+    "category": "Welding & Fabrication",
+    "audience": "",
+    "description": "Digital low-poly standing rhinoceros metal sculpture fabrication plans. Check the seller listing for the exact included files, measurements and fabrication requirements.",
+    "price": 132,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "metal sculpture",
+      "welding",
+      "fabrication"
+    ],
+    "purchaseUrl": "https://denerogmetal.gumroad.com/l/rhino_standing?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "cammade-njfrj",
+    "title": "Rear Opening Universal Camper Conversion Plans",
+    "seller": "Cam Made",
+    "category": "Automotive & Equipment",
+    "audience": "",
+    "description": "35-page metric camper conversion guide with dimensioned assembly drawings, hardware list, CNC DXF cutting files and STEP model. Features pull-out cooking drawer, fold-up bed base and storage. CNC equipment required.",
+    "price": 17.39,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "DXF",
+      "STEP"
+    ],
+    "tags": [
+      "camper conversion",
+      "van build",
+      "CNC"
+    ],
+    "purchaseUrl": "https://cammade.gumroad.com/l/njfrj?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "easybuildingplans-ryisd",
+    "title": "Enhanced Garage with Apartment Plans",
+    "seller": "easybuildingplans",
+    "category": "Construction & Contracting",
+    "audience": "",
+    "description": "Printable 24 x 36 in PDF construction drawings for a 20 x 24 ft two-car garage with a 14 x 24 ft rear studio apartment. Includes floor, foundation, roof framing, sections and connection details. Local permitting review required.",
+    "price": 99.99,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "garage",
+      "apartment",
+      "building plans"
+    ],
+    "purchaseUrl": "https://easybuildingplans.gumroad.com/l/RYIsd?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "plansforwoodworkers-tcstfq",
+    "title": "Kids Loft Bed with Slide and Storage Stairs Plans",
+    "seller": "Plans For Woodworkers",
+    "category": "Woodworking & DIY",
+    "audience": "",
+    "description": "Illustrated woodworking plans for a children’s loft bed with slide, lift-up Murphy-style lower bed and storage stairs. Includes dimensioned drawings in metric and imperial units, materials, cut list and CNC files.",
+    "price": 24.9,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "CNC"
+    ],
+    "tags": [
+      "loft bed",
+      "woodworking",
+      "furniture"
+    ],
+    "purchaseUrl": "https://plansforwoodworkers.gumroad.com/l/tcstfq?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
   }
 ]
