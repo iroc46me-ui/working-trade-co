@@ -358,5 +358,319 @@
     "featured": false,
     "source": "gumroad",
     "lastVerified": "2026-10-16"
+  },
+  {
+    "id": "pressure-washing-launch-guide",
+    "title": "The Simple Guide to Launching Your Own Pressure Washing Business",
+    "seller": "Isaiah Ashley",
+    "category": "Cleaning & Maintenance",
+    "audience": "Aspiring pressure-washing business owners",
+    "description": "29-page introductory ebook on starting a pressure-washing service. Seller page reports 358 sales and five customer ratings.",
+    "price": null,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "pressure washing",
+      "startup",
+      "business guide"
+    ],
+    "purchaseUrl": "https://isaiahashley.gumroad.com/l/SdcRk?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "dirtyboots-contractor-toolkit",
+    "title": "Contractor Business Toolkit + Startup Guide",
+    "seller": "DirtyBootsClub",
+    "category": "Construction & Contracting",
+    "audience": "Small U.S. contractors and trade business owners",
+    "description": "Five editable Excel business tools for invoicing, hours, customers, equipment maintenance and budgets; includes a 10-page PDF startup guide.",
+    "price": 29,
+    "currency": "USD",
+    "formats": [
+      "Excel",
+      "PDF"
+    ],
+    "tags": [
+      "contractor",
+      "invoicing",
+      "equipment maintenance",
+      "budgets"
+    ],
+    "purchaseUrl": "https://dirtybootsclub.gumroad.com/l/contractortoolkit?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "bilingual-landscaping-kit",
+    "title": "Bilingual Landscaping & Lawn Care Starter Kit",
+    "seller": "EmprendeKit",
+    "category": "Landscaping",
+    "audience": "U.S. landscaping and lawn-care businesses serving English- and Spanish-speaking customers",
+    "description": "Bilingual startup resources with spreadsheet pricing and operations tools, customer message scripts, a service contract and business guidance.",
+    "price": 27,
+    "currency": "USD",
+    "formats": [
+      "Excel",
+      "PDF"
+    ],
+    "tags": [
+      "landscaping",
+      "lawn care",
+      "business startup",
+      "bilingual"
+    ],
+    "purchaseUrl": "https://emprendekit.gumroad.com/l/cigidl?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "roofing-contract-forms-crm",
+    "title": "Roofing Contractor Templates & CRM Pack",
+    "seller": "Estimator Pro",
+    "category": "Construction & Contracting",
+    "audience": "Roofing contractors and project managers",
+    "description": "Roofing-specific scope-of-work, customer and subcontractor agreements, completion forms and a Google Sheets CRM dashboard.",
+    "price": 44.99,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "Word",
+      "Google Sheets"
+    ],
+    "tags": [
+      "roofing",
+      "contractor forms",
+      "crm",
+      "contracts"
+    ],
+    "purchaseUrl": "https://xactimator.gumroad.com/l/Roofer?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "misterv-rv-electrical-diagrams",
+    "title": "Electrical Diagram Pack for RVs Vans Cabins and Boats",
+    "seller": "MisterV",
+    "category": "Electrical & Solar",
+    "audience": "RV and off-grid builders researching electrical layouts",
+    "description": "Downloadable electrical wiring diagrams for mobile and off-grid systems plus six sizing calculators.",
+    "price": 31.31,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "Calculators"
+    ],
+    "tags": [
+      "RV",
+      "solar",
+      "off grid",
+      "electrical wiring"
+    ],
+    "purchaseUrl": "https://misterv.gumroad.com/l/Diagram-Pack?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "cozy-cabin-blueprints-course",
+    "title": "COZY CABIN Building Plans and Course",
+    "seller": "Steve Maxwell",
+    "category": "Construction & Contracting",
+    "audience": "Owner-builders and small-cabin enthusiasts",
+    "description": "Illustrated cabin-building plans and a course with 45 instructional videos; includes a materials list and a loft design.",
+    "price": 127.48,
+    "currency": "USD",
+    "formats": [
+      "PDF",
+      "Video"
+    ],
+    "tags": [
+      "cabin",
+      "construction",
+      "building plans",
+      "off grid"
+    ],
+    "purchaseUrl": "https://smaxwell.gumroad.com/l/sDtK?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "owner-operator-cost-maintenance-kit",
+    "title": "Owner-Operator Cost and Maintenance Command Kit",
+    "seller": "ZackScribe",
+    "category": "Trucking & Transport",
+    "audience": "One-truck owner-operators and small trucking businesses",
+    "description": "Nine-tab spreadsheet covering fixed and variable expenses, cost per mile, maintenance reserves, repair records and load decisions.",
+    "price": 39,
+    "currency": "USD",
+    "formats": [
+      "Spreadsheet",
+      "Guide"
+    ],
+    "tags": [
+      "trucking",
+      "cost per mile",
+      "maintenance",
+      "owner operator"
+    ],
+    "purchaseUrl": "https://zackscribe3.gumroad.com/l/hstpnc?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "ahu-pm-checklist",
+    "title": "Air Handling Unit Preventive Maintenance Checklist",
+    "seller": "Kompunt Jindawat",
+    "category": "HVAC",
+    "audience": "HVAC technicians and facility-maintenance teams",
+    "description": "Printable air-handling-unit maintenance checklist with inspection frequencies, equipment readings and remarks fields.",
+    "price": 15,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "HVAC",
+      "air handling",
+      "preventive maintenance",
+      "inspection"
+    ],
+    "purchaseUrl": "https://kompunt.gumroad.com/l/ylopn?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "mep-electrical-proposal-template",
+    "title": "Electrical Estimate Proposal Template",
+    "seller": "MEP Academy LLC",
+    "category": "Electrical & Solar",
+    "audience": "Electrical contractors creating customer proposals",
+    "description": "Editable Excel electrical estimating and proposal form with project details, terms and tax calculation fields.",
+    "price": 19.95,
+    "currency": "USD",
+    "formats": [
+      "Excel"
+    ],
+    "tags": [
+      "electrical",
+      "estimate",
+      "proposal",
+      "contractor"
+    ],
+    "purchaseUrl": "https://mepacademy.gumroad.com/l/ntlvtx?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "mep-plumbing-proposal-template",
+    "title": "Plumbing Estimate Proposal Template",
+    "seller": "MEP Academy LLC",
+    "category": "Plumbing",
+    "audience": "Plumbing contractors creating customer estimates",
+    "description": "Editable Excel plumbing estimate and proposal sheet allowing a company logo, terms, job-specific copies and tax-rate adjustments.",
+    "price": 19.95,
+    "currency": "USD",
+    "formats": [
+      "Excel"
+    ],
+    "tags": [
+      "plumbing",
+      "estimates",
+      "proposal",
+      "contractor"
+    ],
+    "purchaseUrl": "https://mepacademy.gumroad.com/l/raqne?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "used-car-inspection-checklist",
+    "title": "Used Car Inspection Checklist",
+    "seller": "EPYC Pack",
+    "category": "Automotive & Equipment",
+    "audience": "Used-car buyers and general automotive enthusiasts",
+    "description": "Four-page downloadable used-car checklist with exterior and mechanical items, road-test prompts and OBD-II checks.",
+    "price": 3.9,
+    "currency": "USD",
+    "formats": [
+      "Digital checklist"
+    ],
+    "tags": [
+      "automotive",
+      "vehicle inspection",
+      "used car",
+      "checklist"
+    ],
+    "purchaseUrl": "https://epycpack.gumroad.com/l/used-car-inspection?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-17"
   }
 ]
