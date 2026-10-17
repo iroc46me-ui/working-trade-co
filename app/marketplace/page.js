@@ -12,8 +12,7 @@ export default function Marketplace() {
       <h1>PDFs &amp; Digital Tools for Working People</h1>
       <p className="catalog-intro">
         Practical job forms, guides, templates and project resources—all in one place.
-        Our own Junk Removal Starter Kit is available now; independent creators' products
-        will join the library as their listings and affiliate links are approved.
+        Browse downloadable plans, guides, and templates from independent creators alongside our own Junk Removal Starter Kit.
       </p>
       <CatalogClient />
       <div className="notice catalog-disclosure">
