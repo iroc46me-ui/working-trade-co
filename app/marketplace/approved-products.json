@@ -1279,5 +1279,217 @@
     "featured": false,
     "source": "gumroad",
     "lastVerified": "2026-10-17"
+  },
+  {
+    "id": "wtc-handyman-business-starter-kit",
+    "title": "Handyman Business Starter Kit",
+    "seller": "Tradesmans Playbook",
+    "category": "Construction & Contracting",
+    "audience": "",
+    "description": "Business-startup manual for handyman service operators; seller advertises a 100+ page PDF. Confirm optional templates are included in the purchased tier.",
+    "price": 19,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "business starter",
+      "trade guide"
+    ],
+    "purchaseUrl": "https://tradesmansplaybook.gumroad.com/l/handyman-starter-kit?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-hvac-technician-business-starter-kit",
+    "title": "HVAC Technician Business Starter Kit",
+    "seller": "Tradesmans Playbook",
+    "category": "HVAC",
+    "audience": "",
+    "description": "Business-startup manual for HVAC service operators; seller advertises a 130-page PDF. Optional calculators and templates may be sold separately.",
+    "price": 19,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "business starter",
+      "trade guide"
+    ],
+    "purchaseUrl": "https://tradesmansplaybook.gumroad.com/l/hvac-starter-kit?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-plumber-business-starter-kit",
+    "title": "Plumber Business Starter Kit",
+    "seller": "Tradesmans Playbook",
+    "category": "Plumbing",
+    "audience": "",
+    "description": "Business-startup manual for plumbing contractors; seller advertises a 122-page PDF. Confirm optional templates are included in the purchased tier.",
+    "price": 19,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "business starter",
+      "trade guide"
+    ],
+    "purchaseUrl": "https://tradesmansplaybook.gumroad.com/l/plumber-starter-kit?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-roofer-business-starter-kit",
+    "title": "Roofer Business Starter Kit",
+    "seller": "Tradesmans Playbook",
+    "category": "Roofing",
+    "audience": "",
+    "description": "Business-startup manual for roofing contractors; seller advertises a 130-page PDF. Optional business templates may be separate.",
+    "price": 19,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "business starter",
+      "trade guide"
+    ],
+    "purchaseUrl": "https://tradesmansplaybook.gumroad.com/l/roofer-starter-kit?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-montessori-furniture-plans-bundle",
+    "title": "Montessori Furniture Plans Bundle",
+    "seller": "Charleston Crafted",
+    "category": "Woodworking & DIY",
+    "audience": "",
+    "description": "Bundle advertised as five illustrated PDF plans for Montessori-style children’s furniture. Review safety and dimensions before building.",
+    "price": 44.99,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "woodworking",
+      "project plans",
+      "bundle"
+    ],
+    "purchaseUrl": "https://charlestoncrafted.gumroad.com/l/nojcj?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-outdoor-woodworking-plans-bundle",
+    "title": "Outdoor Woodworking Plans Bundle",
+    "seller": "Crafted Workshop",
+    "category": "Woodworking & DIY",
+    "audience": "",
+    "description": "Outdoor woodworking bundle advertised with plans for a planter, patio cooler, potting bench and Adirondack chair.",
+    "price": 19.99,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "woodworking",
+      "project plans",
+      "bundle"
+    ],
+    "purchaseUrl": "https://craftedworkshop.gumroad.com/l/OutdoorPlansBundle?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-holiday-gifts-woodworking-plans-bundle",
+    "title": "Holiday Gifts Woodworking Plans Bundle",
+    "seller": "Charleston Crafted",
+    "category": "Woodworking & DIY",
+    "audience": "",
+    "description": "Five illustrated woodworking PDF plans for gift projects including a holder, plant chair, grill cart, tray and lantern.",
+    "price": 24.99,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "woodworking",
+      "project plans",
+      "bundle"
+    ],
+    "purchaseUrl": "https://charlestoncrafted.gumroad.com/l/fiwey?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
+  },
+  {
+    "id": "wtc-holiday-decor-woodworking-plans-bundle",
+    "title": "Holiday Decor Woodworking Plans Bundle",
+    "seller": "Charleston Crafted",
+    "category": "Woodworking & DIY",
+    "audience": "",
+    "description": "Five illustrated PDF woodworking plans for seasonal holiday decor projects.",
+    "price": 24.99,
+    "currency": "USD",
+    "formats": [
+      "PDF"
+    ],
+    "tags": [
+      "woodworking",
+      "project plans",
+      "bundle"
+    ],
+    "purchaseUrl": "https://charlestoncrafted.gumroad.com/l/ctodh?a=440406627",
+    "affiliate": true,
+    "status": "approved",
+    "reviewed": true,
+    "affiliateVerified": true,
+    "descriptionAuthorized": true,
+    "featured": false,
+    "source": "gumroad",
+    "lastVerified": "2026-10-18"
   }
 ]
