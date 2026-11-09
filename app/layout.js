@@ -14,7 +14,6 @@ export default function RootLayout({ children }) {
           <div className="wrap nav">
             <a className="brand" href="/">WORKING TRADE CO.</a>
             <nav className="navlinks">
-              <a className="marketplace-nav" href="/marketplace">Browse PDFs</a>
             </nav>
           </div>
         </header>
