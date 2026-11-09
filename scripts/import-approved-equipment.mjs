@@ -159,9 +159,30 @@ function main() {
         throw Error(`Missing ${field}: ${id}`);
     }
 
-    const purchaseUrl = validateUrl(r.purchase_url);
+    
+const purchaseUrl = validateUrl(r.purchase_url);
 
-    const price = r.price ? Number(r.price) : null;
+// Accept an optional image URL from the CSV.
+// Preserve the existing image if no replacement is supplied.
+const existingProduct = products.get(id);
+let imageUrl = existingProduct?.imageUrl || "";
+
+if (r.image_url) {
+  const image = new URL(r.image_url);
+
+  if (
+    image.protocol !== "https:" ||
+    image.username ||
+    image.password
+  ) {
+    throw Error(`Invalid image URL: ${id}`);
+  }
+
+  imageUrl = image.toString();
+}
+
+const price = r.price ? Number(r.price) : null;
+
 
     if (
       price !== null &&
@@ -177,6 +198,7 @@ function main() {
       price,
       currency: r.currency || "USD",
       purchaseUrl,
+      imageUrl,
       affiliate: true,
       source: "ebay",
       status: "approved",

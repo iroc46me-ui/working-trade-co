@@ -35,8 +35,27 @@ export default function ToolsEquipmentPage() {
         ) : (
           <div className="catalog-grid">
             {approvedProducts.map((product) => (
-              <article className="catalog-card" key={product.id}>
-                <p className="eyebrow">{product.category}</p>
+              
+<article className="catalog-card" key={product.id}>
+  {product.imageUrl && (
+    <div className="equipment-image">
+      <img
+        src={product.imageUrl}
+        alt={product.title}
+        loading="lazy"
+        style={{
+          width: "100%",
+          height: "220px",
+          objectFit: "contain",
+          backgroundColor: "#fff",
+          borderRadius: "8px",
+        }}
+      />
+    </div>
+  )}
+
+  <p className="eyebrow">{product.category}</p>
+
 
                 <h3>{product.title}</h3>
 
