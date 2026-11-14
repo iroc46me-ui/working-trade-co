@@ -25,8 +25,42 @@ export default function ToolsEquipmentPage() {
         Practical tools, equipment, and supplies for
         contractors, tradespeople, and owner-operators.
       </p>
+      
+      <nav aria-label="Shop by trade" className="catalog-section">
+        <h2>Shop by Trade</h2>
+        <p>Select a category to jump directly to its equipment listings.</p>
 
-<section className="catalog-section">
+        <div style={{ display: "flex", flexWrap: "wrap", gap: "10px" }}>
+          {[
+            ["Welding", "welding"],
+            ["Automotive", "automotive"],
+            ["Construction", "construction"],
+            ["Electrical", "electrical"],
+            ["Plumbing", "plumbing"],
+            ["Shop Tools", "shop-tools"],
+            ["Mining & Prospecting", "prospecting"],
+            ["All Equipment", "all-equipment"],
+          ].map(([label, id]) => (
+            <a
+              key={id}
+              href={`#${id}`}
+              style={{
+                display: "inline-block",
+                padding: "10px 16px",
+                border: "1px solid #999",
+                borderRadius: "8px",
+                textDecoration: "none",
+                fontWeight: 600,
+              }}
+            >
+              {label}
+            </a>
+          ))}
+        </div>
+      </nav>
+
+
+<section id="welding" className="catalog-section">
   <h2>Shop Welding Equipment</h2>
   <p>
     Explore welding machines, helmets, and accessories
@@ -45,7 +79,7 @@ export default function ToolsEquipmentPage() {
     strategy="afterInteractive"
   />
 </section>
-      <section className="catalog-section">
+      <section id="automotive" className="catalog">
         <h2>Shop Automotive Tools &amp; Diagnostics</h2>
         <p>
           Explore automotive diagnostic scanners, impact wrenches,
@@ -60,7 +94,7 @@ export default function ToolsEquipmentPage() {
         </div>
         
       {/* Construction & Power Tools */}
-      <section className="catalog-section">
+      <section id="construction" className="catalog">
         <h2>Shop Construction &amp; Power Tools</h2>
         <p>Explore cordless drills, saws, and construction tools available on eBay.</p>
         <div style={{ maxWidth: "100%", overflowX: "auto" }}>
@@ -72,7 +106,7 @@ export default function ToolsEquipmentPage() {
       </section>
 
       {/* Electrical Tools & Testing */}
-      <section className="catalog-section">
+      <section id="electrical" className="catalog">
         <h2>Shop Electrical Tools &amp; Testing</h2>
         <p>Explore multimeters and electrical testing equipment available on eBay.</p>
         <div style={{ maxWidth: "100%", overflowX: "auto" }}>
@@ -84,7 +118,7 @@ export default function ToolsEquipmentPage() {
       </section>
 
       {/* Plumbing Tools & Equipment */}
-      <section className="catalog-section">
+      <section id="plumbing" className="catalog">
         <h2>Shop Plumbing Tools &amp; Equipment</h2>
         <p>Explore pipe threaders and professional plumbing tools available on eBay.</p>
         <div style={{ maxWidth: "100%", overflowX: "auto" }}>
@@ -96,7 +130,7 @@ export default function ToolsEquipmentPage() {
       </section>
 
       {/* Heavy Equipment & Shop Tools */}
-      <section className="catalog-section">
+      <section id="shop-tools" className="catalog">
         <h2>Shop Heavy Equipment &amp; Shop Tools</h2>
         <p>Explore hydraulic shop presses and workshop equipment available on eBay.</p>
         <div style={{ maxWidth: "100%", overflowX: "auto" }}>
@@ -108,7 +142,7 @@ export default function ToolsEquipmentPage() {
       </section>
 
       {/* Mining & Prospecting Equipment */}
-      <section className="catalog-section">
+      <section id="prospecting" className="catalog">
         <h2>Shop Mining &amp; Prospecting Equipment</h2>
         <p>Explore gold metal detectors and prospecting equipment available on eBay.</p>
         <div style={{ maxWidth: "100%", overflowX: "auto" }}>
@@ -120,7 +154,7 @@ export default function ToolsEquipmentPage() {
       </section>
 
       </section>
-      <section className="catalog-section">
+      <section id="all-equipment" className="catalog">
         <h2>Equipment Marketplace</h2>
         <p>
           Browse {approvedProducts.length} approved equipment listings.
