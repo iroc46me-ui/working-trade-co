@@ -58,6 +58,67 @@ export default function ToolsEquipmentPage() {
             data-config-id="fff681daeb198c627b8f811b"
           />
         </div>
+        
+      {/* Construction & Power Tools */}
+      <section className="catalog-section">
+        <h2>Shop Construction &amp; Power Tools</h2>
+        <p>Explore cordless drills, saws, and construction tools available on eBay.</p>
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff6851843b306020a11e09b"
+          />
+        </div>
+      </section>
+
+      {/* Electrical Tools & Testing */}
+      <section className="catalog-section">
+        <h2>Shop Electrical Tools &amp; Testing</h2>
+        <p>Explore multimeters and electrical testing equipment available on eBay.</p>
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff685be2cd63c66f9f1d7c2"
+          />
+        </div>
+      </section>
+
+      {/* Plumbing Tools & Equipment */}
+      <section className="catalog-section">
+        <h2>Shop Plumbing Tools &amp; Equipment</h2>
+        <p>Explore pipe threaders and professional plumbing tools available on eBay.</p>
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff68665eb198c627b8f811c"
+          />
+        </div>
+      </section>
+
+      {/* Heavy Equipment & Shop Tools */}
+      <section className="catalog-section">
+        <h2>Shop Heavy Equipment &amp; Shop Tools</h2>
+        <p>Explore hydraulic shop presses and workshop equipment available on eBay.</p>
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff686cb0efb3159606cb5fe"
+          />
+        </div>
+      </section>
+
+      {/* Mining & Prospecting Equipment */}
+      <section className="catalog-section">
+        <h2>Shop Mining &amp; Prospecting Equipment</h2>
+        <p>Explore gold metal detectors and prospecting equipment available on eBay.</p>
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff6874e289aa126f8cfda20"
+          />
+        </div>
+      </section>
+
       </section>
       <section className="catalog-section">
         <h2>Equipment Marketplace</h2>
