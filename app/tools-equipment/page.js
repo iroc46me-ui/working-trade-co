@@ -35,6 +35,7 @@ export default function ToolsEquipmentPage() {
             ["Welding", "welding"],
             ["Automotive", "automotive"],
             ["Construction", "construction"],
+            ["Carpentry & Woodworking", "woodworking"],
             ["Electrical", "electrical"],
             ["Plumbing", "plumbing"],
             ["Shop Tools", "shop-tools"],
@@ -104,7 +105,21 @@ export default function ToolsEquipmentPage() {
           />
         </div>
       </section>
+      {/* Carpentry & Woodworking Tools */}
+      <section id="woodworking" className="catalog">
+        <h2>Shop Carpentry &amp; Woodworking Tools</h2>
+        <p>
+          Explore table saws, routers, planers, jointers,
+          and woodworking equipment available on eBay.
+        </p>
 
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff6a0e843b306020a11e09c"
+          />
+        </div>
+      </section>
       {/* Electrical Tools & Testing */}
       <section id="electrical" className="catalog">
         <h2>Shop Electrical Tools &amp; Testing</h2>
