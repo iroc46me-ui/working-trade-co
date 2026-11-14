@@ -45,7 +45,20 @@ export default function ToolsEquipmentPage() {
     strategy="afterInteractive"
   />
 </section>
+      <section className="catalog-section">
+        <h2>Shop Automotive Tools &amp; Diagnostics</h2>
+        <p>
+          Explore automotive diagnostic scanners, impact wrenches,
+          and professional garage equipment available on eBay.
+        </p>
 
+        <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+          <ins
+            className="epn-placement"
+            data-config-id="fff681daeb198c627b8f811b"
+          />
+        </div>
+      </section>
       <section className="catalog-section">
         <h2>Equipment Marketplace</h2>
         <p>
