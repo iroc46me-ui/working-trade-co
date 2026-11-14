@@ -15,8 +15,9 @@ export default function ToolsEquipmentPage() {
     (product) => product.status === "approved"
   );
 
-  return (
-    <main className="wrap page">
+  
+    return (
+  <main className="wrap page equipment-page">
       <div className="eyebrow">WORKING TRADE CO. MARKETPLACE</div>
 
       <h1>Tools &amp; Equipment</h1>
