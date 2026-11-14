@@ -92,7 +92,7 @@ export default function ToolsEquipmentPage() {
             data-config-id="fff681daeb198c627b8f811b"
           />
         </div>
-        
+              </section>
       {/* Construction & Power Tools */}
       <section id="construction" className="catalog">
         <h2>Shop Construction &amp; Power Tools</h2>
@@ -153,7 +153,7 @@ export default function ToolsEquipmentPage() {
         </div>
       </section>
 
-      </section>
+      
       <section id="all-equipment" className="catalog">
         <h2>Equipment Marketplace</h2>
         <p>
