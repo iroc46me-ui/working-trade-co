@@ -1,5 +1,8 @@
 
+
+import Script from "next/script";
 import products from "./approved-products.json";
+
 
 export const metadata = {
   title: "Tools & Equipment | Working Trade Co.",
@@ -22,6 +25,26 @@ export default function ToolsEquipmentPage() {
         Practical tools, equipment, and supplies for
         contractors, tradespeople, and owner-operators.
       </p>
+
+<section className="catalog-section">
+  <h2>Shop Welding Equipment</h2>
+  <p>
+    Explore welding machines, helmets, and accessories
+    available from sellers on eBay.
+  </p>
+
+  <div style={{ maxWidth: "100%", overflowX: "auto" }}>
+    <ins
+      className="epn-placement"
+      data-config-id="fff67f67eb198c627b8f811a"
+    />
+  </div>
+
+  <Script
+    src="https://epnt.ebay.com/static/epn-smart-tools.js"
+    strategy="afterInteractive"
+  />
+</section>
 
       <section className="catalog-section">
         <h2>Equipment Marketplace</h2>
