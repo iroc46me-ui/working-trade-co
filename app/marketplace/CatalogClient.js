@@ -14,7 +14,7 @@ export default function CatalogClient() {
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState("All trades");
   const [sort, setSort] = useState("featured");
-
+const [showAll, setShowAll] = useState(false);
   const categories = useMemo(
     () => ["All trades", ...new Set(catalog.map((item) => item.category))],
     []
@@ -39,12 +39,17 @@ export default function CatalogClient() {
     });
   }, [search, category, sort]);
 
-  const visibleResults = !search.trim() && category === "All trades" ? results.slice(0, 6) : results;
+  const visibleResults =
+  !showAll && !search.trim()
+    ? results.slice(0, 6)
+    : results;
 
   const clearFilters = () => {
-    setSearch(""); setCategory("All trades"); setSort("featured");
-  };
-
+  setSearch("");
+  setCategory("All trades");
+  setSort("featured");
+  setShowAll(false);
+};
   return (
     <>
       <section className="catalog-section" aria-labelledby="browse-heading">
@@ -61,7 +66,14 @@ export default function CatalogClient() {
           </label>
           <label className="catalog-field">
             <span>Trade</span>
-            <select value={category} onChange={(e) => setCategory(e.target.value)} aria-label="Filter by trade">
+            <select
+  value={category}
+  onChange={(e) => {
+    setCategory(e.target.value);
+    setShowAll(false);
+  }}
+  aria-label="Filter by trade"
+>
               {categories.map((name) => <option key={name} value={name}>{name}</option>)}
             </select>
           </label>
@@ -78,7 +90,7 @@ export default function CatalogClient() {
         <div className="catalog-count" role="status" aria-live="polite">
           Showing {visibleResults.length} of {catalog.length} available {catalog.length === 1 ? "resource" : "resources"}
         </div>
-        {results.length > 0 ? (
+        {results.length > 0 && (
           <div className="catalog-grid">
             {visibleResults.map((product) => (
               <article className="card catalog-product" key={product.id}>
@@ -111,12 +123,38 @@ export default function CatalogClient() {
                 )}
               </article>
             ))}
+          
           </div>
-        ) : (
+        )}
+
+        {!showAll &&
+  !search.trim() &&
+  results.length > 6 && (
+            <div style={{ textAlign: "center", marginTop: "28px" }}>
+              <button
+                type="button"
+                className="btn"
+                onClick={() => setShowAll(true)}
+              >
+                Show More Resources
+              </button>
+            </div>
+          )}
+
+        {results.length === 0 && (
           <div className="catalog-empty">
             <h3>No matching resources yet</h3>
-            <p>Try a different search, or check back as more approved products are added.</p>
-            <button type="button" onClick={clearFilters} className="catalog-clear">Clear filters</button>
+            <p>
+              Try a different search, or check back as more approved
+              products are added.
+            </p>
+            <button
+              type="button"
+              onClick={clearFilters}
+              className="catalog-clear"
+            >
+              Clear filters
+            </button>
           </div>
         )}
       </section>
@@ -133,7 +171,11 @@ export default function CatalogClient() {
               className="catalog-category"
               href="#browse-heading"
               style={{ textDecoration: "none" }}
-              onClick={() => { setCategory(name); setSearch(""); }}
+              onClick={() => {
+  setCategory(name);
+  setSearch("");
+  setShowAll(false);
+}}
             >
               {name}
               <small>{catalog.filter((item) => item.category === name).length} products</small>
