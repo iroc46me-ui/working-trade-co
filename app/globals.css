@@ -165,3 +165,39 @@ a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}.na
     background-position: center top;
   }
 }
+
+/* Equipment trade showroom — compact spacing */
+.equipment-page section.catalog,
+.equipment-page section.catalog-section {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.equipment-page section.catalog h2,
+.equipment-page section.catalog-section h2 {
+  font-size: clamp(26px, 3vw, 34px);
+  line-height: 1.2;
+  margin-bottom: 10px;
+}
+
+.equipment-page section.catalog > p,
+.equipment-page section.catalog-section > p {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+/* Equipment Marketplace — mobile heading refinement */
+@media (max-width: 600px) {
+  .equipment-page .equipment-hero h1 {
+    font-size: clamp(28px, 7vw, 34px);
+    line-height: 1.15;
+  }
+}
+
+/* Working Trade Co. — trade department accents */
+.equipment-page section.catalog:not(.equipment-showcase) > h2,
+.equipment-page section.catalog-section > h2 {
+  border-left: 4px solid #d6a04b;
+  padding-left: 14px;
+}
+
