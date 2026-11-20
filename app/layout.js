@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <header>
           <div className="wrap nav">
-            <a className="brand" href="/">WORKING TRADE CO.</a>
+            <a className="brand" href="/">WORKING TRADE CO.™</a>
             <nav className="navlinks">
               <a href="/marketplace">PDF Marketplace</a>
               <a href="/tools-equipment">Tools &amp; Equipment</a>
