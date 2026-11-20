@@ -171,7 +171,7 @@ export default function ToolsEquipmentPage() {
       </section>
 
       
-      <section id="all-equipment" className="catalog">
+      <section id="all-equipment" className="catalog equipment-showcase">
         <h2>Equipment Marketplace</h2>
         <p>
           Browse {approvedProducts.length} approved equipment listings.

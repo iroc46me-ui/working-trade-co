@@ -130,3 +130,38 @@ a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}.na
   line-height: 1.25;
 }
 }
+
+/* Equipment Marketplace workshop background */
+.equipment-page .equipment-showcase {
+  position: relative;
+  padding: 32px 24px;
+  border-radius: 16px;
+  background-image: url("/Workshop-background.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: #ffffff;
+}
+
+/* Product cards floating over the workshop */
+.equipment-page .equipment-showcase .catalog-card {
+  background: rgba(15, 22, 29, 0.20);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+}
+
+/* Keep all product text readable */
+.equipment-page .equipment-showcase .catalog-card h3,
+.equipment-page .equipment-showcase .catalog-card p {
+  color: #0b0b0a;
+}
+
+/* Mobile-friendly background */
+@media (max-width: 768px) {
+  .equipment-page .equipment-showcase {
+    padding: 20px 12px;
+    background-attachment: scroll;
+    background-position: center top;
+  }
+}
