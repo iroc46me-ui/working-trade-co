@@ -18,6 +18,7 @@ export default function ToolsEquipmentPage() {
   
     return (
   <main className="wrap page equipment-page">
+  <div className="equipment-hero">
       <div className="eyebrow">WORKING TRADE CO. MARKETPLACE</div>
 
       <h1>Tools &amp; Equipment</h1>
@@ -60,7 +61,7 @@ export default function ToolsEquipmentPage() {
           ))}
         </div>
       </nav>
-
+</div>
 
 <section id="welding" className="catalog-section">
   <h2>Shop Welding Equipment</h2>

@@ -69,3 +69,64 @@ a{color:inherit;text-decoration:none}.wrap{width:min(1120px,92%);margin:auto}.na
     padding: 30px 18px;
   }
 }
+/* Tools & Equipment — workshop photo hero */
+.equipment-page .equipment-hero {
+  background-image: url("/equipment-workshop.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  color: #ffffff;
+  padding: 55px 35px;
+  border-radius: 12px;
+}
+
+.equipment-page .equipment-hero .eyebrow {
+  color: #e5b86a;
+}
+
+.equipment-page .equipment-hero .catalog-intro {
+  color: #f0ebe3;
+}
+/* Tools & Equipment — mobile layout */
+@media (max-width: 600px) {
+  .equipment-page {
+    width: 92%;
+    padding: 16px;
+    margin-top: 16px;
+  }
+
+  .equipment-page .equipment-hero {
+    padding: 28px 16px;
+    background-position: center;
+  }
+
+  .equipment-page h1 {
+    font-size: 34px;
+    line-height: 1.15;
+    overflow-wrap: break-word;
+  }
+
+  .equipment-page .equipment-hero .eyebrow {
+    font-size: 11px;
+    letter-spacing: 0.05em;
+  }
+
+  .equipment-page .catalog-intro {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .equipment-page .equipment-hero h2 {
+    font-size: 26px;
+  }
+
+  .equipment-page .equipment-hero nav a {
+    font-size: 13px;
+    padding: 9px 12px !important;
+  }
+  .equipment-page section h2 {
+  font-size: 25px;
+  line-height: 1.25;
+}
+}
