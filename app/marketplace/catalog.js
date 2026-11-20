@@ -14,6 +14,7 @@ const ownProducts = [
       "An office-in-a-box bundle with printable forms, editable documents, pricing tools, expense tracking, and customer message scripts.",
     price: 29,
     currency: "USD",
+    imageUrl: "/junk-removal-image.png",
     formats: ["PDF", "Editable files"],
     tags: ["junk hauling", "estimates", "job costing", "invoices", "business forms"],
     detailUrl: "/junk-removal",

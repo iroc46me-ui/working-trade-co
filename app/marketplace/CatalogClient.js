@@ -94,6 +94,19 @@ const [showAll, setShowAll] = useState(false);
           <div className="catalog-grid">
             {visibleResults.map((product) => (
               <article className="card catalog-product" key={product.id}>
+                {product.imageUrl && (
+  <img
+    src={product.imageUrl}
+    alt={`${product.title} cover`}
+    style={{
+      width: "100%",
+      height: "200px",
+      objectFit: "contain",
+      borderRadius: "8px",
+      marginBottom: "16px",
+    }}
+  />
+)}
                 <div className="catalog-product-top">
                   <span className="eyebrow">{product.category}</span>
                   {product.featured && <span className="catalog-pill">Featured</span>}
